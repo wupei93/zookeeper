@@ -54,8 +54,8 @@ logs/
 *.log
 *.bak
 *.tmp
-tmp/**
-tmp/**/*
+#tmp/**
+#tmp/**/*
 .DS_Store
 .gradle
 *.patch
